@@ -53,11 +53,9 @@
 <h3>Statistical Data :-</h3>
 <p><img align="center"
     src="https://github.com/user-attachments/assets/38c49fe0-739f-4d8f-8a2b-c8bc07d9841b"
-    width="400" 
+    width="370" 
     alt="Imagen estadística"></p>
 
-  
-<br>
 
 
 
