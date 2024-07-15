@@ -50,14 +50,14 @@
 
 <br>
 
-<h3>Statistical Data :-</h3>
+<h3>Statistical Data :
 
 <p><img align="start"
     src="https://github.com/user-attachments/assets/38c49fe0-739f-4d8f-8a2b-c8bc07d9841b"
     width="400" 
     alt="Imagen estadística"></p>
 
-
+</h3>
 
 
 
